@@ -6,8 +6,8 @@ confirman pedidos; el administrador gestiona categorías, productos, stock, pedi
 
 **Autora:** Andrea Ayala 
 
-- **Repositorio público:** 
-- **Video de demostración:** 
+- **Repositorio público:** https://github.com/andyjayala/food-store-tpi
+- **Video de demostración:** https://drive.google.com/file/d/1prZ8oUjhlEowAkgO36OI3bnGMjQxqKKj/view?usp=sharing
 
 ## Estructura del proyecto
 
